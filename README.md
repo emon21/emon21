@@ -40,3 +40,23 @@ Skills: HTML / CSS/JS/PHP/Java/SQL/
 - 👯Java(J2EE) With (JSP)
 
 </p>
+
+ <h3 align="left">My Project:</h3>
+<p align="left">
+- 💬 PHP Project List
+       - 🌱 House Rent
+       - 🌱 Car Rent 
+       - 🌱 Pharmicy managment System 
+       - 🌱 Course Sheduale List
+       - 🌱 Blood Donate System
+       - 🌱 E-commerce 
+ 
+- 👯 Laravel Project List
+                         - 🤔 Personal Website
+                         - 🤔 Blog Site
+                         - 🤔 E-commerce
+ 
+ 
+
+
+</p>
