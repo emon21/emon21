@@ -42,21 +42,20 @@ Skills: HTML / CSS/JS/PHP/Java/SQL/
 </p>
 
  <h3 align="left">My Project:</h3>
-<p align="left">
-- 💬 PHP Project List
-       - 🌱 House Rent
-       - 🌱 Car Rent 
-       - 🌱 Pharmicy managment System 
-       - 🌱 Course Sheduale List
-       - 🌱 Blood Donate System
-       - 🌱 E-commerce 
+ <h4 align="left">💬 PHP Project List</h4>
+       - 🌱 House Rent<br/>
+       - 🌱 Car Rent <br/>
+       - 🌱 Pharmicy managment System <br/>
+       - 🌱 Course Sheduale List<br/>
+       - 🌱 Blood Donate System<br/>
+       - 🌱 E-commerce <br/>
  
-- 👯 Laravel Project List
-                         - 🤔 Personal Website
-                         - 🤔 Blog Site
-                         - 🤔 E-commerce
+ <h4 align="left">👯 Laravel Project List</h4>
+                         - 🤔 Personal Website<br/>
+                         - 🤔 Blog Site<br/>
+                         - 🤔 E-commerce<br/>
  
  
 
 
-</p>
+
