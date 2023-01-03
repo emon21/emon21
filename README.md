@@ -6,27 +6,42 @@ We are looking for a PHP Developer responsible for managing back-end services an
 
 <p> I am a back-end developer resume should be cleanly designed, it needs to fit on one page, and should focus mainly on your key career accomplishments, technical skills, personal programming projects and programming courses and certificates.</p>
 
-<h3 align="left">experiance:</h3>
+<h3 align="left">Experiance:</h3>
 
 
 <table class="table table-bordered" width="100%">
     <thead>
       <tr>
         <th>Sl</th>
-        <th>Name</th>
-        <th>Course</th>
+        <th>Course name</th>
+       <th>Traning Center</th>
+       <td>Year</td>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>John</td>
-        <td>Doe</td>
-        <td>john@example.com</td>
+     <tr>
+        <td>01</td>
+        <td>CCNA && MICROTIK Router</td>
+        <td>Triangle Traning Center</td>
+       <td>2011</td>
       </tr>
       <tr>
-        <td>Mary</td>
-        <td>Moe</td>
-        <td>mary@example.com</td>
+        <td>02</td>
+        <td>Web Design & Development</td>
+        <td>Grameen Star IT Education</td>
+       <td>2015</td>
+      </tr>
+      <tr>
+        <td>03</td>
+        <td>Java EnterPrise Edition (J2EE) </td>
+        <td>Genuity Instutite</td>
+       <td>2017</td>
+      </tr>
+      <tr>
+        <td>04</td>
+        <td>Web Development</td>
+        <td>Creative IT Institute</td>
+       <td>2018</td>
       </tr>
     </tbody>
   </table>
