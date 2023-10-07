@@ -1,5 +1,3 @@
-
-/*<img src="https://avatars.githubusercontent.com/u/24882379?v=4" width="150">*/
 ### Md.Hasibur Rahman</br>
  👋, I am Md.Hasibur Rahman
 We are looking for a PHP Developer responsible for managing back-end services and the interchange of data between the server and the users. Your primary focus will be the development of all server-side logic, definition and maintenance of the central database, and ensuring high performance and responsiveness to requests from the front-end. You will also be responsible for integrating the front-end elements built by your co-workers into the application. Therefore, a basic understanding of front-end technologies is necessary as well.
