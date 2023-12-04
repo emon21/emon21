@@ -17,12 +17,6 @@ We are looking for a PHP Developer responsible for managing back-end services an
       </tr>
     </thead>
     <tbody>
-     <tr>
-        <td>01</td>
-        <td>CCNA && MICROTIK Router</td>
-        <td>Triangle Traning Center</td>
-       <td>2011</td>
-      </tr>
       <tr>
         <td>02</td>
         <td>Web Design & Development</td>
