@@ -6,7 +6,6 @@ We are looking for a PHP Developer responsible for managing back-end services an
 
 <h3 align="left">Experiance:</h3>
 
-
 <table class="table table-bordered" width="100%">
     <thead>
       <tr>
@@ -113,8 +112,7 @@ We are looking for a PHP Developer responsible for managing back-end services an
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     </a> 
-  
-    </p>
+ </p>
 
 Skills: HTML / CSS/JS/PHP/Java/SQL/
 
