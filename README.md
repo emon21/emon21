@@ -203,12 +203,12 @@ Here are some of my featured projects:
 
   <details open="close"> 
   <summary> ✌️ 👀  POS Project Details On : </summary>
- gggggggggggggggg
+  Customize in project feature...
 </details>
 
  <details open="close"> 
   <summary> ->  Car Rent Project Details On : </summary>
- gggggggggggggggg
+ Customize in project feature...
 </details>
 
    ---
