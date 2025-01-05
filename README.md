@@ -211,6 +211,13 @@ Here are some of my featured projects:
  Customize in project feature...
 </details>
 
+<details>
+<summary>Click to toggle contents of `code`</summary>
+
+```
+CODE!
+```
+</details>
    ---
 
 <details open=""> 
