@@ -11,9 +11,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=emon21&&style=flat-square)
 
 
-⭐ My Leetcode profile 
-<a href="https://codeium.com/profile/dev-hasib" target="_blank">Codeium.com Profile
-</a>
+
 ---
 ### 🌱 I’m Learning
 - 🔭 I’m currently working on Home
@@ -26,7 +24,15 @@
 -  PHP OOP
 -  Javascript
 -  Vue JS
-  
+-  ⭐ My Codeium Profile 
+<a href="https://codeium.com/profile/dev-hasib" target="_blank">Codeium Profile
+</a>
+- 💪 My WakaTIme Profile
+<a href="https://wakatime.com/@DevHasib" target="_blank">WakaTIme Profile
+</a>
+
+
+
 ---
 
 ### 🛠️ Technologies & Tools
@@ -194,6 +200,16 @@ Here are some of my featured projects:
 3. **[API Development with Laravel](#)**  
    RESTful APIs built using Laravel for seamless integration with client-side applications.  
    [🔗 View Project](#)
+
+  <details open="close"> 
+  <summary> ✌️ 👀  POS Project Details On : </summary>
+ gggggggggggggggg
+</details>
+
+ <details open="close"> 
+  <summary> ->  Car Rent Project Details On : </summary>
+ gggggggggggggggg
+</details>
 
    ---
 
