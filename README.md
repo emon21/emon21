@@ -4,6 +4,8 @@
 
 I`m a Backend Web Develope rwho is passionate about making error website 100% free. i have passion for learning and sharing my knowledge with others as publicly as possible. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 Skills:  HTML / CSS/ JS /Bootstrap/Tailwind/PHP/Laravel/MySQL 
 
 - 🔭 I’m currently working on this page.Home 
