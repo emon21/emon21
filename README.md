@@ -1,30 +1,42 @@
-### Hi there 👋, I`m Hasibur Rahman
-#### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I`m a Backend Web Develope rwho is passionate about making error website 100% free. i have passion for learning and sharing my knowledge with others as publicly as possible. 
-I'm a passionate **PHP Developer** from Dhaka, Bangladesh, with a strong focus on **Laravel** and **Mysql**. I specialize in building dynamic web applications, managing back-end services, elements seamlessly.
-
-Skills:  HTML / CSS/ JS /Bootstrap/Tailwind/PHP/Laravel/MySQL 
-
-- 🔭 I’m currently working on this page.Home 
-- 🌱 I’m currently learning PHP, Laravel 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Developer
-
-### 🛠️ Technologies & Tools
-- **Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, jQuery
-- **Databases**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Other Tools**: Composer, PHPUnit, Docker, VS Code
+### Hi there 👋, 
+ I'm a passionate **PHP Developer** from Dhaka, Bangladesh,with a strong focus on **Laravel** and **Mysql**.
+ I specialize in building dynamic web applications, managing back-end services,
+ i have passion for learning and sharing my knowledge with others as publicly as possible. 
 
 ---
 
-### 🌱 What I’m Learning
+- 🔭 I’m currently working on Home
+- 🌱 I’m currently learning PHP, Laravel 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Developer
+  
+---
+
+### 🛠️ Technologies & Tools
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel, Boostrap,Tailwind
+- **Databases**: MySQL
+- **Version Control**: Git, GitHub
+- **Other Tools**: Composer, VS Code
+
+---
+
+### 🌱 I’m Learning
 - Advanced Laravel techniques
 - Scalable application design
-- Exploring React.js for better front-end integration
+-  Laravel Advance Topic
+-  PHP OOP
+-  Javascript
+-  Vue JS
+
+---
+### Skills:  HTML / CSS/ JS /Bootstrap/Tailwind/PHP/Laravel/MySQL 
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=emon21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emon21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+---
 
 ### 🚀 Projects
 Here are some of my featured projects:
@@ -39,12 +51,11 @@ Here are some of my featured projects:
 
 3. **[API Development with Laravel](#)**  
    RESTful APIs built using Laravel for seamless integration with client-side applications.  
-   [🔗 View Project](#) 
-<div align="left">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=emon21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emon21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+   [🔗 View Project](#)
+
+   ---
+   
+
 
 ###
 
