@@ -79,13 +79,7 @@
         <img src="https://camo.githubusercontent.com/f17c5bf5df1326abc1107dae4157734b160b1122f7a1d6b29d6a5df42662bde1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7675656a732f7675656a732d69636f6e2e737667" width="48" height="48" alt="Vuejs" data-canonical-src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" style="max-width: 100%;">
       </a>
       <br>Vue JS
-    </td>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://camo.githubusercontent.com/0f6f59df41c8e1b029ef3655c96f9b65b47672636cce541fa77942d47e9b8826/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667" width="48" height="48" alt="Nuxtjs" data-canonical-src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>Nuxt JS
-    </td>      
+    </td>     
   </tr>
   <tr>
      <td align="center" width="96">
@@ -107,37 +101,16 @@
       <br>MySQL
     </td>
      <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://camo.githubusercontent.com/ae414f85bded027a3cfd8c2ee82bdf71403743649650ad9b8231c61b887b7c9d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3132303070782d547970657363726970745f6c6f676f5f323032302e7376672e706e67" width="48" height="48" alt="TypeScript" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="max-width: 100%;">
-      </a>
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
         <a href="#livewire">
             <img src="https://camo.githubusercontent.com/9b0b6b5146f865b00385eb81fe2a9f1f51764155a4b6c98eeddfed6e913e85b0/68747470733a2f2f69302e77702e636f6d2f6c61726176656c2d6c697665776972652e636f6d2f696d672f747769747465722e706e67" width="48" height="48" alt="livewire" data-canonical-src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" style="max-width: 100%;">
         </a>
         <br>Livewire
-    </td>
+    </td>  
     <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://camo.githubusercontent.com/2bd4a191158122cca138dcf5f388f4c7404ebb4375989a081cbf2642dfe0eecf/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f412f616c70696e652d6a732d6c6f676f2d323146343136394541422d7365656b6c6f676f2e636f6d2e706e67" width="48" height="48" alt="alpinejs" data-canonical-src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" style="max-width: 100%;">
-        </a>
-        <br>Alpine JS
-    </td>   
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+    </td>
   </tr>
    <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu">
-        <img src="https://camo.githubusercontent.com/a59dec4920f43d165db160c39870509c871a1c3556c15e49cfbd086704d59bf7/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f552f7562756e74752d6c6f676f2d384644454336413037422d7365656b6c6f676f2e636f6d2e706e67" width="48" height="48" alt="ubuntu" data-canonical-src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" style="max-width: 100%;">
-      </a>
-      <br>Ubuntu
-    </td>
-     <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://camo.githubusercontent.com/f9d790c657f6a8b34c03ea8450e6d583d88c55170e16f8d3c3ffbde26fd16710/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66662f4469676974616c4f6365616e5f6c6f676f2e737667" width="48" height="48" alt="Digital Ocean" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" style="max-width: 100%;">
-      </a>
-      <br>Digital Ocean
-    </td>
       <td align="center" width="96">
       <a href="#git">
         <img src="https://camo.githubusercontent.com/dc17562ff077b1d92fa582309ac1b3d53bf0fa9dfac7794d970086d857a83112/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3132303070782d4769745f69636f6e2e7376672e706e67" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" style="max-width: 100%;">
@@ -156,12 +129,7 @@
       </a>
       <br>Postman
     </td>
-      <td align="center" width="96">
-      <a href="#vuepress">
-        <img src="https://camo.githubusercontent.com/ecb07957af8fa1dafd763103a2732a8c156a607bb4cd9f13fe98176f91246756/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39332f416d617a6f6e5f5765625f53657276696365735f4c6f676f2e737667" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="max-width: 100%;">
-      </a>
-      <br>AWS
-    </td>
+
   </tr>
 </tbody></table>
 <div align="left" height="950">
