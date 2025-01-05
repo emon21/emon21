@@ -7,13 +7,25 @@
  I'm a passionate **PHP Developer** from Dhaka, Bangladesh,with a strong focus on **Laravel** and **Mysql**.
  I specialize in building dynamic web applications, managing back-end services,
  i have passion for learning and sharing my knowledge with others as publicly as possible. 
+ 
+![Profile views counter](https://komarev.com/ghpvc/?username=emon21&&style=flat-square)
 
+
+⭐ My Leetcode profile 
+<a href="https://codeium.com/profile/dev-hasib" target="_blank">Codeium.com Profile
+</a>
 ---
-
+### 🌱 I’m Learning
 - 🔭 I’m currently working on Home
 - 🌱 I’m currently learning PHP, Laravel 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Developer
+- Advanced Laravel techniques
+- Scalable application design
+-  Laravel Advance Topic
+-  PHP OOP
+-  Javascript
+-  Vue JS
   
 ---
 
@@ -27,12 +39,7 @@
 ---
 
 ### 🌱 I’m Learning
-- Advanced Laravel techniques
-- Scalable application design
--  Laravel Advance Topic
--  PHP OOP
--  Javascript
--  Vue JS
+
 
 ---
 
@@ -171,12 +178,6 @@
 </table>
 </div>
 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emon21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emon21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ---
 
 ### 🚀 Projects
@@ -196,30 +197,17 @@ Here are some of my featured projects:
 
    ---
 
-<details open="">
-<summary>👀 Show example</summary>
-  
-<a href="https://github.com/emon21/github-readme-stats">
-  <img height="200" align="center" src="https://camo.githubusercontent.com/841989af32130034a06b14b13ce32779ccd9cd6035ad91c344815016dd48f13d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a7261" data-canonical-src="https://github-readme-stats.vercel.app/api?username=emon21" style="max-width: 100%;">
-</a>
-<a href="https://github.com/emon21/convoychat">
-  <img height="200" align="center" src="https://camo.githubusercontent.com/911e1fee18153374d01b3b2d987ca3c75a89a1ef83aecff03a040e4fd99a5a9a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374266c616e67735f636f756e743d3826636172645f77696474683d333230" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=emon21&amp;layout=compact&amp;langs_count=8&amp;card_width=320" style="max-width: 100%;">
-</a>
-
-</details>
-
-
 <details open=""> 
-  <summary> ✌️ My GitHub Analytics </summary>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emon21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emon21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <summary> ✌️ 👀 My GitHub Analytics </summary>
+  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=emon21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emon21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
-
+  <div align="left">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
 </details>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
