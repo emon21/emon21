@@ -1,4 +1,20 @@
 ### Hi there 👋, 
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+ 
+</div>
+
+###
+
  I'm a passionate **PHP Developer** from Dhaka, Bangladesh,with a strong focus on **Laravel** and **Mysql**.
  I specialize in building dynamic web applications, managing back-end services,
  i have passion for learning and sharing my knowledge with others as publicly as possible. 
@@ -31,7 +47,123 @@
 
 ---
 <h3 align="left">Languages and Tools:</h3>
-### Skills: 
+<table align="center">
+  <tbody>
+   <tr>
+      <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://camo.githubusercontent.com/3ba8b8e1890f4f5d17e5d88826b7c716e743521db20a261a360c5ecfb0f9b108/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f482f68746d6c352d776974686f75742d776f72646d61726b2d636f6c6f722d6c6f676f2d313444323532443837382d7365656b6c6f676f2e636f6d2e706e67" width="48" height="48" alt="Html5" data-canonical-src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" style="max-width: 100%;">
+      </a>
+      <br>Html5
+    </td>   
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://camo.githubusercontent.com/8dd9d4d252e7064cad2c12882a08e4e76e501587d433765a40c238f1bc4d0265/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36322f435353335f6c6f676f2e7376672f343870782d435353335f6c6f676f2e7376672e706e67" width="48" height="48" alt="Css3" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" style="max-width: 100%;">
+      </a>
+      <br>CSS3
+    </td>
+     <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://camo.githubusercontent.com/cec29d8b8aceef3f27c4529b23fc6c9ca6e142b13cd4df82e2cb0774f530340d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d342e737667" width="48" height="48" alt="Bootstrap" data-canonical-src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="max-width: 100%;">
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+      <a href="#js">
+        <img src="https://camo.githubusercontent.com/dbdd60ddccd502f8170002bfa54bbb18276ebd78f7576bad9481747a2c0ae532/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3130323470782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" width="48" height="48" alt="javascript" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;">
+      </a>
+      <br>Javascript
+    </td>
+     <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://camo.githubusercontent.com/f17c5bf5df1326abc1107dae4157734b160b1122f7a1d6b29d6a5df42662bde1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7675656a732f7675656a732d69636f6e2e737667" width="48" height="48" alt="Vuejs" data-canonical-src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>Vue JS
+    </td>
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://camo.githubusercontent.com/0f6f59df41c8e1b029ef3655c96f9b65b47672636cce541fa77942d47e9b8826/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667" width="48" height="48" alt="Nuxtjs" data-canonical-src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>Nuxt JS
+    </td>      
+  </tr>
+  <tr>
+     <td align="center" width="96">
+      <a href="#nuxtjs">
+        <img src="https://camo.githubusercontent.com/3cf616a3723cd08e829025a3053347e2586d6c71727fc472f3f5fbad5d5814f4/68747470733a2f2f692e6962622e636f2f4c7a6d597044582f3134362d313436363930322d7068702d6c6f676f2d706e672d7472616e73706172656e742d7068702d6c6f676f2d706e672d706e672d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="PHP" data-canonical-src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" style="max-width: 100%;">
+      </a>
+      <br>PHP
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://camo.githubusercontent.com/619ba509e24cf1d263cd410707696f4317d48c5629f354a10c07952d5e5302dc/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c61726176656c2d322e737667" width="48" height="48" alt="Laravel" data-canonical-src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" style="max-width: 100%;">
+      </a>
+      <br>Laravel
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://camo.githubusercontent.com/6cda548f3f43cab855bdc4b6ddad7fcc532b9e4086988de892ddbd7a5423ec9c/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4d7953514c2f4d7953514c2d4c6f676f2e77696e652e737667" width="48" height="48" alt="Laravel" data-canonical-src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" style="max-width: 100%;">
+      </a>
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+      <a href="#ts">
+        <img src="https://camo.githubusercontent.com/ae414f85bded027a3cfd8c2ee82bdf71403743649650ad9b8231c61b887b7c9d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3132303070782d547970657363726970745f6c6f676f5f323032302e7376672e706e67" width="48" height="48" alt="TypeScript" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="max-width: 100%;">
+      </a>
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+        <a href="#livewire">
+            <img src="https://camo.githubusercontent.com/9b0b6b5146f865b00385eb81fe2a9f1f51764155a4b6c98eeddfed6e913e85b0/68747470733a2f2f69302e77702e636f6d2f6c61726176656c2d6c697665776972652e636f6d2f696d672f747769747465722e706e67" width="48" height="48" alt="livewire" data-canonical-src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" style="max-width: 100%;">
+        </a>
+        <br>Livewire
+    </td>
+    <td align="center" width="96">
+        <a href="#alpinejs">
+            <img src="https://camo.githubusercontent.com/2bd4a191158122cca138dcf5f388f4c7404ebb4375989a081cbf2642dfe0eecf/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f412f616c70696e652d6a732d6c6f676f2d323146343136394541422d7365656b6c6f676f2e636f6d2e706e67" width="48" height="48" alt="alpinejs" data-canonical-src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" style="max-width: 100%;">
+        </a>
+        <br>Alpine JS
+    </td>   
+  </tr>
+   <tr>
+      <td align="center" width="96">
+      <a href="#ubuntu">
+        <img src="https://camo.githubusercontent.com/a59dec4920f43d165db160c39870509c871a1c3556c15e49cfbd086704d59bf7/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f552f7562756e74752d6c6f676f2d384644454336413037422d7365656b6c6f676f2e636f6d2e706e67" width="48" height="48" alt="ubuntu" data-canonical-src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" style="max-width: 100%;">
+      </a>
+      <br>Ubuntu
+    </td>
+     <td align="center" width="96">
+      <a href="#digitalocean">
+        <img src="https://camo.githubusercontent.com/f9d790c657f6a8b34c03ea8450e6d583d88c55170e16f8d3c3ffbde26fd16710/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66662f4469676974616c4f6365616e5f6c6f676f2e737667" width="48" height="48" alt="Digital Ocean" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" style="max-width: 100%;">
+      </a>
+      <br>Digital Ocean
+    </td>
+      <td align="center" width="96">
+      <a href="#git">
+        <img src="https://camo.githubusercontent.com/dc17562ff077b1d92fa582309ac1b3d53bf0fa9dfac7794d970086d857a83112/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3132303070782d4769745f69636f6e2e7376672e706e67" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" style="max-width: 100%;">
+      </a>
+      <br>Git
+    </td>
+      <td align="center" width="96">
+      <a href="#vscode">
+        <img src="https://camo.githubusercontent.com/36135c12ff1a60ee93d5e918983f8506ca618dcd8374490464c6f5dafc195259/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" width="48" height="48" alt="Jamstack" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="max-width: 100%;">
+      </a>
+      <br>VS Code
+    </td>
+      <td align="center" width="96">
+      <a href="#postman">
+        <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="48" height="48" alt="Git" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>Postman
+    </td>
+      <td align="center" width="96">
+      <a href="#vuepress">
+        <img src="https://camo.githubusercontent.com/ecb07957af8fa1dafd763103a2732a8c156a607bb4cd9f13fe98176f91246756/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39332f416d617a6f6e5f5765625f53657276696365735f4c6f676f2e737667" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="max-width: 100%;">
+      </a>
+      <br>AWS
+    </td>
+  </tr>
+</tbody></table>
 <div align="left" height="950">
   <table>
   <tr>
@@ -118,9 +250,13 @@ Here are some of my featured projects:
 [![trophy](https://github-profile-trophy.vercel.app/?username=emon21)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 
 <div align="left">
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=emon21)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emon21)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emon21)](https://github.com/emon21/github-readme-stats)
 </div>
