@@ -214,6 +214,13 @@ Here are some of my featured projects:
    [🔗 View Project](#)
 
    ---
+<details open=""> 
+  <summary> ✌️ My GitHub Analytics </summary>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/378afe059127e4d3db8dde2b6589cfaf5ed86e6820f8566064af87566ee91b6a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d646576626f79617269662673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c"><img width="100%" height="200px" align="left" src="https://camo.githubusercontent.com/378afe059127e4d3db8dde2b6589cfaf5ed86e6820f8566064af87566ee91b6a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d646576626f79617269662673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="devboyarif" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=devboyarif&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></a></p>
+<p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ee1adefc80d966c8c28f4281a92b6405ac1219feb5f405f5416b5c7a1d94c54c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646576626f79617269662673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d7261646963616c"><img width="100%" height="250px" align="center" src="https://camo.githubusercontent.com/ee1adefc80d966c8c28f4281a92b6405ac1219feb5f405f5416b5c7a1d94c54c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646576626f79617269662673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d7261646963616c" alt="devboyarif" data-canonical-src="https://github-readme-stats.vercel.app/api?username=devboyarif&amp;show_icons=true&amp;locale=en&amp;theme=radical" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2fe192da19e1a5202e8fb03981d4e8dc55dfd39e506d558d5b4f7af20039f0a2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646576626f7961726966267468656d653d7261646963616c"><img width="100%" height="300px" align="right" src="https://camo.githubusercontent.com/2fe192da19e1a5202e8fb03981d4e8dc55dfd39e506d558d5b4f7af20039f0a2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646576626f7961726966267468656d653d7261646963616c" alt="devboyarif" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&amp;theme=radical" style="max-width: 100%;"></a></p>
+</details>
+   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=emon21)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -222,9 +229,3 @@ Here are some of my featured projects:
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-
-<div align="left">
- ![GitHub streak stats](https://streak-stats.demolab.com/?user=emon21)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emon21)](https://github.com/emon21/github-readme-stats)
-</div>
