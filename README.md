@@ -189,17 +189,24 @@
 ### 🚀 Projects
 Here are some of my featured projects:
 
-1. **[E-commerce Platform](#)**  
-   A full-featured e-commerce application built with Laravel, including user authentication, product management, and a dynamic cart system.  
-   [🔗 View Project](#)  
+1. **[Content-Managment-System - CMS](#)**  
+   Content Management System in Laravel CMS – a robust script meticulously developed on the Laravel Framework, seamlessly fusing the elegance of Laravel with advanced content management capabilities. Whether you’re an experienced developer, a digital entrepreneur,  an organization in search of an efficient and customizable CMS, 
 
-2. **[Customer Management System](#)**  
+   [See Here] [ https://github.com/emon21/cms-content-managment-system]
+
+2. **[Car Rent Application](#)**  
+   Rent a car on booking car,rent car ,searching car ,filter car,avabile on car customize user aND DASHBOARD CAR Manage with car CRUD and Rent Car  with advanced CRUD functionalities and real-time search.  
+   [🔗 View Project](#)
+
+3. **[POS - Point of Sale](#)**  
+   A customer management app with advanced CRUD functionalities and real-time search.  
+   [🔗 View Project](#)
+
+4. **[Recipe on Food Recipe](#)**  
    A customer management app with advanced CRUD functionalities and real-time search.  
    [🔗 View Project](#)  
 
-3. **[API Development with Laravel](#)**  
-   RESTful APIs built using Laravel for seamless integration with client-side applications.  
-   [🔗 View Project](#)
+
 
   <details open="close"> 
   <summary> ✌️ 👀  POS Project Details On : </summary>
