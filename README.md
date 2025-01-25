@@ -199,8 +199,9 @@ Here are some of my featured projects:
    [🔗 View Project](#)
 
 3. **[POS - Point of Sale](#)**  
-   A customer management app with advanced CRUD functionalities and real-time search.  
-   [🔗 View Project](#)
+  
+A Point of Sale (POS) system is a critical tool for businesses that deal with inventory, sales, and customer transactions. Here's how you can approach building a POS system in Laravel along with a description of its features. 
+   [🔗 View Project](https://github.com/emon21/pos)
 
 4. **[Recipe on Food Recipe](#)**  
    A customer management app with advanced CRUD functionalities and real-time search.  
